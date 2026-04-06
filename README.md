@@ -56,3 +56,8 @@ This project serves as a comprehensive business analytics solution developed for
 * **Operations Research:** Linear programming and cost-minimization (Optimization).
 * **Business Intelligence:** Interactive dashboard design and data visualization.
 This analysis assumes a normal distribution for sales; future iterations could incorporate seasonal seasonality and external economic trends for higher predictive accuracy.
+---
+## 🔍 Critical Awareness & Future Recommendations
+While this model provides a robust baseline for Scottish regional operations, it is important to note:
+* **Market Variables:** The Monte Carlo simulation assumes a normal distribution of sales. Future iterations should incorporate seasonal spikes (e.g., Christmas/Hogmanay) for more precise risk forecasting.
+* **Logistics Constraints:** The optimization model assumes fixed transportation costs. Integrating real-time fuel price fluctuations would further refine the cost-minimization results.
