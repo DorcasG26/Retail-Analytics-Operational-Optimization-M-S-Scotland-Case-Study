@@ -56,4 +56,4 @@ This project serves as a comprehensive business analytics solution developed for
 * **Risk Management:** Probabilistic modeling and Monte Carlo simulations.
 * **Operations Research:** Linear programming and cost-minimization (Optimization).
 * **Business Intelligence:** Interactive dashboard design and data visualization.
-* This analysis assumes a normal distribution for sales; future iterations could incorporate seasonal seasonality and external economic trends for higher predictive accuracy.
+This analysis assumes a normal distribution for sales; future iterations could incorporate seasonal seasonality and external economic trends for higher predictive accuracy.
