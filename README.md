@@ -4,6 +4,7 @@ As a Business Analyst consultant for Marks &amp; Spencer, I developed an end-to-
 
 ## 📌 Project Overview
 This project serves as a comprehensive business analytics solution developed for the Regional Directors of Marks & Spencer, Scotland. By leveraging raw sales data from nine separate store locations, I built an end-to-end analytical suite to improve decision-making across sales performance, risk management, and logistics.
+> 📥 **Download the File:** [Click here to view the full Excel Analysis Model](./Your_Actual_Filename.xlsx)
 
 ---
 
