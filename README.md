@@ -5,16 +5,16 @@ As a Business Analyst consultant for Marks &amp; Spencer, I developed an end-to-
 ## 📊 Project Visuals
 
 ### 1. Data Cleaning & Descriptive Statistics
-![Data Cleaning](data_stats.png)
+![Data Cleaning](Image/image%201,%20main%20data%20set.png)
 
 ### 2. Executive Dashboard & Sales Analysis
-![Sales Dashboard](dashboard_1.png)
-![Departmental Charts](dashboard_2.png)
+![Sales Dashboard](Image/charts1.png)
+![Departmental Charts](Image/charts2.png)
 
 ### 3. Risk Modeling (Monte Carlo Simulation)
-![Simulation 1](Simulation%201.png)
-![Simulation 2](Simulation2.png)
-![Simulation 3](Simulation3)
+![Simulation 1](Image/Simulation%201.png)
+![Simulation 2](Image/Simulation%202.png)
+![Simulation 3](Image/Simulation%203.png)
 
 ### 4. Logistics Optimization (Linear Programming)
-![Supply Chain Optimization](Optimisation)
+![Supply Chain Optimization](Image/Optimisation.png)
