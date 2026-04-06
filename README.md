@@ -15,7 +15,6 @@ This project serves as a comprehensive business analytics solution developed for
 **The Result:** Established a clean, reliable dataset that ensures all regional reporting reflects actual store performance rather than data anomalies.
 
 ![Data Cleaning](Image/image%201,%20main%20data%20set.png)
-
 ---
 
 ### 2. Executive Dashboard & Sales Analysis
